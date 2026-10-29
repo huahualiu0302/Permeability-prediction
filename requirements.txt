@@ -1,0 +1,11 @@
+numpy==1.26.4
+pandas==3.0.3
+scipy==1.17.1
+scikit-learn==1.9.0
+scikit-image==0.26.0
+xgboost==3.1.0
+optuna==4.9.0
+porespy==3.0.4
+openpnm==3.6.2
+h5py==3.16.0
+dask==2026.6.0
